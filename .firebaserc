@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "benrobertsonio-4db4e"
+  },
+  "targets": {
+    "benrobertsonio-4db4e": {
+      "hosting": {
+        "main": [
+          "ben-robertson-is"
+        ]
+      }
+    }
+  }
+}
